@@ -1,0 +1,6 @@
+BLOB_KEY=DefaultEndpointsProtocol=https;AccountName=sccstoreeuwest41631;AccountKey=yJrfeSnXghETp8r7kTf/YBFx90vX6JqDOB5S2s8rxnVmJs40uZJjxkaeXghbCwYpG8rLt+wRgV2fPI8IJm2OcA==;EndpointSuffix=core.windows.net
+COSMOSDB_KEY=5DOMDbMxpg8UjPZRkas6BgzcgZsfVTt9RHWI13tUYo4UbSoMGmdgzglwCN8K53sfmozfsx5hiLsOmr1jlZBRtA==
+COSMOSDB_URL=https://scccosmos41631.documents.azure.com:443/
+COSMOSDB_DATABASE=scccosmosdb41631
+REDIS_KEY=aKy1VSa6ZeLa5wKNUPnxmap4eEiWZF74nHBF+cuD36Y=
+REDIS_URL=sccredis41631.redis.cache.windows.net

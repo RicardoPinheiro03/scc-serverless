@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=22d574dd46f446f5a5fd;AccountKey=STB2Z/xRJLRVGcgUZ1fzgqH0UQYYJXqDo6z/F9cKoAmUpjOvl9WIpDcYDbUgp+Lv0P3D2/WswJcYZRpOsV0ZKg==",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=22d574dd46f446f5a5fd;AccountKey=STB2Z/xRJLRVGcgUZ1fzgqH0UQYYJXqDo6z/F9cKoAmUpjOvl9WIpDcYDbUgp+Lv0P3D2/WswJcYZRpOsV0ZKg==",
+    "WEBSITE_RUN_FROM_PACKAGE": "1",
+    "WEBSITE_CONTENTSHARE": "scc-serverless-41631c1f6061918",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=22d574dd46f446f5a5fd;AccountKey=STB2Z/xRJLRVGcgUZ1fzgqH0UQYYJXqDo6z/F9cKoAmUpjOvl9WIpDcYDbUgp+Lv0P3D2/WswJcYZRpOsV0ZKg=="
+  },
+  "ConnectionStrings": {}
+}
